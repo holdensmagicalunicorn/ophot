@@ -49,7 +49,7 @@ The ophot/ directory is a Python package and contains the following files:
     user-visible parts of the site
 * filters.py - filters for use with the Jinja2 templates in the templates/
     directory
-* helpers.py - utility functions for use throught this package
+* helpers.py - utility functions for use through  this package
 * photos.py - provides RESTful routes for accessing photos
 * queries.py - string constants which are used in queries to the database
 * schema.sql - the schema for the photo database
